@@ -8,8 +8,8 @@ public class Program
 {
     public static void Main()
     {
-        Console.Title = "EarrapeCreator | Made by https://github.com/GabryB03/";
-        Console.WriteLine("EarrapeCreator | Made by https://github.com/GabryB03/");
+        Console.Title = "EarrapeCreator | Made by https://github.com/ZygoteCode/";
+        Console.WriteLine("EarrapeCreator | Made by https://github.com/ZygoteCode/");
 
         if (!Directory.Exists("inputs"))
         {
